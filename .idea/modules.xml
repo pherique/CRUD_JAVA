@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CRUD_JAVA.iml" filepath="$PROJECT_DIR$/.idea/CRUD_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitignore/gitignore.iml" filepath="$PROJECT_DIR$/gitignore/gitignore.iml" />
     </modules>
   </component>
 </project>
